@@ -474,8 +474,13 @@
 **Результат:**
 
 ![1](https://github.com/GiveEnd/Developing-applications-in-a-distributed-environment/blob/main/4/Result/1.png?raw=true)
+
 ![2](https://github.com/GiveEnd/Developing-applications-in-a-distributed-environment/blob/main/4/Result/2.png?raw=true)
+
 ![3](https://github.com/GiveEnd/Developing-applications-in-a-distributed-environment/blob/main/4/Result/3.png?raw=true)
+
 ![4](https://github.com/GiveEnd/Developing-applications-in-a-distributed-environment/blob/main/4/Result/4.png?raw=true)
+
 ![5](https://github.com/GiveEnd/Developing-applications-in-a-distributed-environment/blob/main/4/Result/5.png?raw=true)
+
 ![6](https://github.com/GiveEnd/Developing-applications-in-a-distributed-environment/blob/main/4/Result/6.png?raw=true)
